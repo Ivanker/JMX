@@ -144,10 +144,6 @@
         </HTTPSamplerProxy>
         <hashTree/>
       </hashTree>
-<<<<<<< HEAD
-
-=======
->>>>>>> fix
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group9fix" enabled="true">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
